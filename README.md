@@ -1,2 +1,2 @@
 # leet_code
-leet code
+leetcode problem solutions
